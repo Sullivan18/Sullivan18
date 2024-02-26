@@ -1,23 +1,23 @@
-# Bem-vindo ao Meu Perfil do GitHub! 👋
+# 👋 Bem-vindo ao Meu Perfil do GitHub!
 
 ## Sobre Mim
-Olá! Meu nome é André Luiz, sou um desenvolvedor frontend freelancer apaixonado por criar experiências incríveis na web. Atualmente, estou focado em aprimorar minhas habilidades em React, JavaScript ES6, HTML e CSS. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de desenvolvimento web.
+Olá! Sou André Luiz, um desenvolvedor frontend freelancer apaixonado por criar experiências incríveis na web. Atualmente, estou focado em aprimorar minhas habilidades em React, JavaScript ES6, HTML e CSS. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de desenvolvimento web.
 
 ## Projetos Destacados
-- [MyPet](https://github.com/Sullivan18/MyPet): Dog Mange Detection using Artificial Intelligence.
-- [Moriya Sushi 2](https://github.com/Sullivan18/restaurante): Home page of a restaurant using React and with API communicating with database.
+- [**MyPet**](https://github.com/Sullivan18/MyPet): Detecção de Sarna em Cachorros usando Inteligência Artificial.
+- [**Moriya Sushi**](https://github.com/Sullivan18/restaurante): Página inicial de um restaurante usando React e com API comunicando com banco de dados.
 
 ## Habilidades
-- React
-- JavaScript ES6
-- HTML5
-- CSS3
-- Git
+- ![React Badge](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=white)
+- ![JavaScript ES6 Badge](https://img.shields.io/badge/-JavaScript_ES6-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+- ![HTML5 Badge](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=white)
+- ![CSS3 Badge](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white)
+- ![Git Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Git&logoColor=white)
 
 ## Contato
-- Email: andre.sullivan18@hotmail.com
-- LinkedIn: [André Luiz dos Santos Leite](www.linkedin.com/in/andré-luiz-dos-santos-leite-081432275)
+- **Email:** [![Email Badge](https://img.shields.io/badge/-andre.sullivan18%40hotmail.com-%23D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:andre.sullivan18@hotmail.com)
+- **LinkedIn:** [![LinkedIn Badge](https://img.shields.io/badge/-André%20Luiz%20dos%20Santos%20Leite-%230077B5?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/andré-luiz-dos-santos-leite-081432275)
+- **Slack:** ![Slack Badge](https://img.shields.io/badge/-andre.sullivan18%40hotmail.com-%237A7A7A?style=flat-square&logo=Slack&logoColor=white)
 
 ## Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Sullivan18&layout=compact&theme=dark)
-
