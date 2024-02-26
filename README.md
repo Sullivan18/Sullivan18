@@ -22,9 +22,6 @@ Olá! Meu nome é [Seu Nome], sou um desenvolvedor frontend freelancer apaixonad
 ## Contribuições
 Contribuo para projetos de código aberto e estou sempre aberto a novas colaborações e oportunidades. Se você tem um projeto interessante em que eu possa ajudar, sinta-se à vontade para entrar em contato!
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Sullivan18&show_icons=true&theme=dark)
-
 ## Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Sullivan18&layout=compact&theme=dark)
 
