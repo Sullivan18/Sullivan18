@@ -18,9 +18,6 @@ Olá! Meu nome é André Luiz, sou um desenvolvedor frontend freelancer apaixona
 - Email: andre.sullivan18@hotmail.com
 - LinkedIn: [André Luiz dos Santos Leite](www.linkedin.com/in/andré-luiz-dos-santos-leite-081432275)
 
-## Contribuições
-Contribuo para projetos de código aberto e estou sempre aberto a novas colaborações e oportunidades. Se você tem um projeto interessante em que eu possa ajudar, sinta-se à vontade para entrar em contato!
-
 ## Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Sullivan18&layout=compact&theme=dark)
 
