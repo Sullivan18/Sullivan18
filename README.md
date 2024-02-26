@@ -18,6 +18,5 @@ Olá! Sou André Luiz, um desenvolvedor frontend freelancer apaixonado por criar
 ## Avaliação do Perfil
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Sullivan18&show_icons=true&theme=dark)
 
-
 ## Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Sullivan18&layout=compact&theme=dark)
