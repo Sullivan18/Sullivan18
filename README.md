@@ -6,6 +6,10 @@ Olá! Sou André Luiz, um desenvolvedor frontend freelancer apaixonado por criar
 ## Projetos Destacados
 - [**MyPet**](https://github.com/Sullivan18/MyPet): Detecção de Sarna em Cachorros usando Inteligência Artificial.
 - [**Moriya Sushi**](https://github.com/Sullivan18/restaurante): Página inicial de um restaurante usando React e com API comunicando com banco de dados.
+- [**SentimentDash**](https://github.com/Sullivan18/SentimentDash): Dashboard de análise de sentimentos em postagens de redes sociais usando Machine Learning.
+- [**Clinic Modern Web**](https://github.com/Sullivan18/clinic-modern-web): Plataforma moderna e responsiva para uma clínica, com animações e integração com Google Maps.
+- [**Selenium Twitter Scraper**](https://github.com/Sullivan18/selenium-twitter-scraper): Ferramenta automatizada para scraping de tweets com Selenium.
+
 
 ## Habilidades
 ![React Badge](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=white&logoWidth=20&labelColor=61DAFB&color=282c34) ![JavaScript ES6 Badge](https://img.shields.io/badge/-JavaScript_ES6-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&labelColor=F7DF1E&color=282c34) ![HTML5 Badge](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=white&labelColor=E34F26&color=282c34) ![CSS3 Badge](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white&labelColor=1572B6&color=282c34) ![Git Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Git&logoColor=white&labelColor=F05032&color=282c34)
