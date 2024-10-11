@@ -12,7 +12,18 @@ Olá! Sou André Luiz, um desenvolvedor frontend freelancer apaixonado por criar
 
 
 ## Habilidades
-![React Badge](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=white&logoWidth=20&labelColor=61DAFB&color=282c34) ![JavaScript ES6 Badge](https://img.shields.io/badge/-JavaScript_ES6-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&labelColor=F7DF1E&color=282c34) ![HTML5 Badge](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=white&labelColor=E34F26&color=282c34) ![CSS3 Badge](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white&labelColor=1572B6&color=282c34) ![Git Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Git&logoColor=white&labelColor=F05032&color=282c34)
+![React Badge](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=white&logoWidth=20&labelColor=61DAFB&color=282c34) 
+![JavaScript ES6 Badge](https://img.shields.io/badge/-JavaScript_ES6-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&labelColor=F7DF1E&color=282c34) 
+![HTML5 Badge](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=white&labelColor=E34F26&color=282c34) 
+![CSS3 Badge](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white&labelColor=1572B6&color=282c34) 
+![Git Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Git&logoColor=white&labelColor=F05032&color=282c34) 
+![Python Badge](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB&color=282c34)
+![Selenium Badge](https://img.shields.io/badge/-Selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white&labelColor=43B02A&color=282c34)
+![FastAPI Badge](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI&logoColor=white&labelColor=00C7B7&color=282c34)
+![Tailwind CSS Badge](https://img.shields.io/badge/-TailwindCSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=38B2AC&color=282c34)
+![Machine Learning Badge](https://img.shields.io/badge/-Machine_Learning-%23000000?style=flat-square&logo=machine-learning&logoColor=white&labelColor=000000&color=282c34)
+![GitHub Pages Badge](https://img.shields.io/badge/-GitHub_Pages-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717&color=282c34)
+
 
 ## Contato
 [![Email Badge](https://img.shields.io/badge/-andre.sullivan18%40hotmail.com-%23D14836?style=flat-square&logo=Gmail&logoColor=white&labelColor=D14836&color=282c34)](mailto:andre.sullivan18@hotmail.com)
