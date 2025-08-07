@@ -1,7 +1,7 @@
 # 👋 Bem-vindo ao Meu Perfil do GitHub!
 
 ## Sobre Mim
-Olá! Sou André Luiz, um desenvolvedor frontend freelancer apaixonado por criar experiências incríveis na web. Atualmente, estou focado em aprimorar minhas habilidades em React, JavaScript ES6, HTML e CSS. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de desenvolvimento web.
+Olá! Sou André Luiz, um desenvolvedor Fullstack com experiência em tecnologias como .NET, C#, SQL Server, JavaScript, React, React Native, Node.js e Next.js. Ao longo da minha carreira, busquei sempre aprimorar minhas habilidades e aplicar as melhores práticas no desenvolvimento de soluções eficientes e escaláveis. Tenho paixão por resolver problemas complexos e criar experiências inovadoras para os usuários. Atualmente, estou envolvido em projetos como o Ludare, onde sou responsável por diversas áreas do ciclo de desenvolvimento, incluindo a implementação de novas funcionalidades e a otimização de performance. Estou sempre em busca de novos desafios e oportunidades para crescer na área de desenvolvimento de software.
 
 ## Projetos Destacados
 - [**MyPet**](https://github.com/Sullivan18/MyPet): Detecção de Sarna em Cachorros usando Inteligência Artificial.
