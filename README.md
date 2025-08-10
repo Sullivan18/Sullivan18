@@ -8,7 +8,7 @@ Olá! Sou André Luiz, um desenvolvedor Fullstack com experiência em tecnologia
 - [**Moriya Sushi**](https://github.com/Sullivan18/restaurante): Página inicial de um restaurante usando React e com API comunicando com banco de dados.
 - [**SentimentDash**](https://github.com/Sullivan18/SentimentDash): Dashboard de análise de sentimentos em postagens de redes sociais usando Machine Learning.
 - [**Clinic Modern Web**](https://github.com/Sullivan18/clinic-modern-web): Plataforma moderna e responsiva para uma clínica, com animações e integração com Google Maps.
-- [**Selenium Twitter Scraper**](https://github.com/Sullivan18/selenium-twitter-scraper): Ferramenta automatizada para scraping de tweets com Selenium.
+- [**Selenium Twitter Scraper**](https://github.com/Sullivan18/twitter_scraper): Ferramenta automatizada para scraping de tweets com Selenium.
 
 
 ## Habilidades
